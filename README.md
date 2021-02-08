@@ -7,3 +7,8 @@ https://Nicolas-Arrieta.github.io/youtube-taller-maquetacion/portafolio-cv
 # Taller de Maquetacion
 
 Repositorio de proyectos del taller de maquetacion de @jonmircha en Yo Tu BE
+
+## Proyectos
+
+-[Landing Page de tipo Portafolio-CV](https://Nicolas-Arrieta.github.io/youtube-taller-maquetacion/portafolio-cv
+)
